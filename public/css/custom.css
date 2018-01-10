@@ -1,0 +1,67 @@
+.cach30{
+    height: 30px;
+}
+.cach25{
+    height: 25px;
+}
+.cach20{
+    height: 20px;
+}
+.cach15{
+    height: 15px;
+}
+body{
+    font-family: 'Nunito', sans-serif;
+}
+.tieuchi{
+    text-align: center;
+}
+.xanhla{
+    background-color: #0b6942;
+    color: white;
+}
+.tieudemuc{
+    text-align: center;
+    color: #f37335;
+}
+.anhto{
+    border-radius: 10px;
+}
+.trang{
+    /*background-color: whitesmoke;*/
+}
+.muangay{
+    text-align: center;
+}
+
+#banquyen{
+    color: #f37335;
+    text-align: center;
+}
+
+#hotline {
+    color: #0b6942;
+    font-weight: bold;
+}
+
+.btnfull {
+    width: 100%;
+
+}
+
+.carousel {
+    margin-top: 56px;
+}
+
+.navbar {
+    background-color: white;
+    z-index: 1;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #f37335;
+}
+
+/*.xahoi{*/
+/*font-size: 40px;*/
+/*}*/
